@@ -1,2 +1,1 @@
-a=1
-#variable
+print("hello World")
